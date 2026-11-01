@@ -1,0 +1,25 @@
+# 第三方可执行文件（体积大，用 Releases 分发）
+ffmpeg.exe
+ffprobe.exe
+pngquant.exe
+gifsicle.exe
+gifdiff.exe
+*.msi
+*.zip
+
+# 构建产物
+build/
+dist/
+*.spec
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 本地测试素材
+test/
+out/
+_压缩/
+
+# 运行时配置
+.lightpress/
+*.log
