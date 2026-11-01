@@ -36,7 +36,7 @@
 
 ### 直接下载
 
-到 [Releases](../../releases) 下载 `轻压-v1.1.0-win64.zip`，解压后双击 `轻压.exe`。
+到 [Releases](../../releases) 下载 `LightPress-v1.1.0-win64.zip`，解压后双击 `轻压.exe`。
 压缩包里已经带好了 ffmpeg / pngquant / gifsicle，开箱即用。
 
 ### 从源码运行
